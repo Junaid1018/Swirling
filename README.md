@@ -1,8 +1,3 @@
 # Swirling
 Will be updated soon
-# https://tea.xyz/what-is-this-file
----
-version: 1.0.0
-codeOwners:
-  - '0x291E50567c02A0Bf548412baB3b3439c50e2cDEA'
-quorum: 1
+
